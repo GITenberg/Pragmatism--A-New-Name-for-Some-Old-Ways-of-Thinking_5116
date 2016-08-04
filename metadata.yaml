@@ -1,0 +1,29 @@
+_repo: Pragmatism--A-New-Name-for-Some-Old-Ways-of-Thinking_5116
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, William
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '325'
+    url: http://www.gutenberg.org/2009/agents/325
+    wikipedia: http://en.wikipedia.org/wiki/William_James
+description: 'Sequel: The meaning of truth.'
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5116'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pragmatism'
+- !lcc 'B'
+- GITenberg
+tableOfContents: The present dilemma in philosophy -- What pragmatism means -- Some
+  metaphysical problems pragmatically considered -- The one and the many -- Pragmatism
+  and common sense -- Pragmatism's conception of truth -- Pragmatism and humanism
+  -- Pragmatism and religion.
+title: 'Pragmatism: A New Name for Some Old Ways of Thinking'
+url: http://www.gutenberg.org/ebooks/5116
